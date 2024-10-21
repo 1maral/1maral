@@ -9,6 +9,6 @@
 - 🌱 I’m currently learning Object-Oriented Programming (OOP), data structure, algorithms, introductory statistics, and posthumanism, which explores decentralizing the human from the world.
 - 👀 I’m interested in software development and engineering. I’m particularly fascinated by cybersecurity, data integrity, safety, and enforcing privacy, especially concerning AI and AI ethics.
 - 💞️ I’m looking to collaborate on projects related to AI, software development, cybersecurity, and privacy-enhancing technologies.
-- 📫 How to reach me: You can contact me via email at [maral.b2541@gmail.com] or find me on LinkedIn at [linkedin.com/in/maral-bat-erdene-088a5b2bb].
+- 📫 How to reach me: You can contact me via email at [maral.b2541@gmail.com] or find me on LinkedIn at [www.linkedin.com/in/maral-baterdene].
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m passionate about exploring how posthumanist ideas can impact our approach to AI and ethics!
